@@ -1,4 +1,4 @@
-#excursion
+# excursion
 
 Codecademy full stack portfolio - HTML/CSS project
 
